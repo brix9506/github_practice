@@ -9,6 +9,6 @@ package clone_package;
 
 public class clone_class {
     public static void main(String[] args) throws Exception {
-        System.out.print("Hello Github!!!");
+        System.out.print("Hell-low Github!!!");
     }
 }
