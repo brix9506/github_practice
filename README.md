@@ -3,6 +3,7 @@
 
 # Keywords
 We will try functions of github and we will use those functions during our project.
+- fork
 - clone
 - fetch
 - commit
